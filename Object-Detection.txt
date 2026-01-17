@@ -12,3 +12,6 @@ Displays the final list in a user-friendly format
 ////////////////////////////////////////////////////////
 Video Tutorial on using camera to recognize objects: 
 https://www.youtube.com/watch?v=S8RABlMOqEU
+///////////////////////////////////////////////////////
+Video Tutorial to set up camera module 3:
+https://www.youtube.com/watch?v=3TErT4HhZXo
