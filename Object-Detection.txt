@@ -1,0 +1,14 @@
+Gemini camera model 
+https://gitlab.com/qnx/projects/ai-services-rest-examples?ref=devblog.qnx.com#3-multimodal-input-example-image--text-prompt
+Multimodal Input Example (Image + Text Prompt)
+////////////////////////////////////////////////////////
+Makes an HTTPS request to Gemini’s generateContent API
+Sends both a text prompt and an input image (multimodal_input.png) in the same request
+Note: Ensure multimodal_input.png is copied to the same working directory as the Python or C sample before running it
+Asks Gemini to identify the items visible in the image
+Prints the raw JSON response for inspection
+Extracts and parses the result into a clean list of items
+Displays the final list in a user-friendly format
+////////////////////////////////////////////////////////
+Video Tutorial on using camera to recognize objects: 
+https://www.youtube.com/watch?v=S8RABlMOqEU
