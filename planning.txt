@@ -1,0 +1,8 @@
+Idea:
+
+we will use AI and a rasberry pi to create a machine
+that will use image recongition to detect if something 
+shown to the screen is garbage, and what type of garbage it would be
+
+we can use different AI models and connect them with Solace
+using google gemini as one of the models
